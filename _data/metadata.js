@@ -1,7 +1,7 @@
 module.exports = {
-	title: "Eleventy Base Blog v8",
-	url: "https://example.com/",
-	language: "en",
+	title: "Valmont Log //",
+	url: "https://test.valmontb.com/",
+	language: "fr",
 	description: "I am writing about my experiences as a naval navel-gazer.",
 	author: {
 		name: "Your Name Here",
